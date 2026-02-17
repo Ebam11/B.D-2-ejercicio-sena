@@ -1,0 +1,147 @@
+[
+  {
+    "_id": "APR001",
+    "numero_documento": "1010234567",
+    "tipo_documento": "CC",
+    "nombres": "María",
+    "apellidos": "Gómez Pérez",
+    "fecha_nacimiento": "2002-05-15",
+    "contacto": {
+      "telefono": "3101234567",
+      "email": "maria.gomez@email.com"
+    },
+    "direccion": {
+      "calle": "Calle 10 #20-30",
+      "ciudad": "Bogotá"
+    },
+    "estado": "Activo",
+    "matriculas": [
+      {
+        "id_matricula": "MAT001",
+        "id_programa": "PROG001",
+        "nombre_programa": "Técnico en Programación de Software",
+        "fecha_matricula": "2024-02-01",
+        "estado_matricula": "Activa",
+        "nota_promedio": 4.2,
+        "porcentaje_avance": 65,
+        "observaciones": "Buen desempeño académico"
+      }
+    ]
+  },
+  {
+    "_id": "APR002",
+    "numero_documento": "1020345678",
+    "tipo_documento": "CC",
+    "nombres": "Carlos",
+    "apellidos": "Rodríguez López",
+    "fecha_nacimiento": "2001-08-22",
+    "contacto": {
+      "telefono": "3209876543",
+      "email": "carlos.rodriguez@email.com"
+    },
+    "direccion": {
+      "calle": "Carrera 15 #45-67",
+      "ciudad": "Medellín"
+    },
+    "estado": "Activo",
+    "matriculas": [
+      {
+        "id_matricula": "MAT002",
+        "id_programa": "PROG002",
+        "nombre_programa": "Tecnólogo en Análisis y Desarrollo de Software",
+        "fecha_matricula": "2024-02-01",
+        "estado_matricula": "Activa",
+        "nota_promedio": 3.8,
+        "porcentaje_avance": 55,
+        "observaciones": "Estudiante regular, cumple con entregas"
+      }
+    ]
+  },
+  {
+    "_id": "APR003",
+    "numero_documento": "1030456789",
+    "tipo_documento": "CC",
+    "nombres": "Ana",
+    "apellidos": "Martínez Silva",
+    "fecha_nacimiento": "2003-11-10",
+    "contacto": {
+      "telefono": "3156789012",
+      "email": "ana.martinez@email.com"
+    },
+    "direccion": {
+      "calle": "Avenida 30 #12-45",
+      "ciudad": "Cali"
+    },
+    "estado": "Activo",
+    "matriculas": [
+      {
+        "id_matricula": "MAT003",
+        "id_programa": "PROG001",
+        "nombre_programa": "Técnico en Programación de Software",
+        "fecha_matricula": "2024-03-15",
+        "estado_matricula": "Activa",
+        "nota_promedio": 4.5,
+        "porcentaje_avance": 70,
+        "observaciones": "Excelente rendimiento"
+      }
+    ]
+  },
+  {
+    "_id": "APR004",
+    "numero_documento": "1040567890",
+    "tipo_documento": "CC",
+    "nombres": "Mario",
+    "apellidos": "Sánchez Torres",
+    "fecha_nacimiento": "2002-03-18",
+    "contacto": {
+      "telefono": "3187654321",
+      "email": "mario.sanchez@email.com"
+    },
+    "direccion": {
+      "calle": "Calle 50 #23-56",
+      "ciudad": "Barranquilla"
+    },
+    "estado": "Activo",
+    "matriculas": [
+      {
+        "id_matricula": "MAT004",
+        "id_programa": "PROG001",
+        "nombre_programa": "Técnico en Programación de Software",
+        "fecha_matricula": "2024-02-01",
+        "estado_matricula": "Activa",
+        "nota_promedio": 3.2,
+        "porcentaje_avance": 45,
+        "observaciones": "Necesita refuerzo en algunas áreas"
+      }
+    ]
+  },
+  {
+    "_id": "APR005",
+    "numero_documento": "1050678901",
+    "tipo_documento": "CC",
+    "nombres": "Laura",
+    "apellidos": "Hernández Ruiz",
+    "fecha_nacimiento": "2001-12-05",
+    "contacto": {
+      "telefono": "3145678901",
+      "email": "laura.hernandez@email.com"
+    },
+    "direccion": {
+      "calle": "Carrera 20 #34-78",
+      "ciudad": "Bogotá"
+    },
+    "estado": "Activo",
+    "matriculas": [
+      {
+        "id_matricula": "MAT005",
+        "id_programa": "PROG003",
+        "nombre_programa": "Técnico en Sistemas",
+        "fecha_matricula": "2024-01-20",
+        "estado_matricula": "Activa",
+        "nota_promedio": 4.0,
+        "porcentaje_avance": 60,
+        "observaciones": "Buen avance en redes"
+      }
+    ]
+  }
+]

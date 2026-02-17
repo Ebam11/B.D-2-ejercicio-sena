@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "INST001",
+    "numero_documento": "40123456",
+    "tipo_documento": "CC",
+    "nombres": "Pedro",
+    "apellidos": "González Medina",
+    "contacto": {
+      "email": "pedro.gonzalez@educativo.edu.co",
+      "telefono": "3201234567"
+    },
+    "especialidad": "Programación",
+    "nivel_educacion": "Maestría",
+    "estado": "Activo",
+    "competencias_certificadas": [
+      {
+        "id_competencia": "COMP001",
+        "nombre": "Fundamentos de Programación",
+        "nivel_dominio": "Experto",
+        "fecha_certificacion": "2020-06-15"
+      },
+      {
+        "id_competencia": "COMP002",
+        "nombre": "Programación Orientada a Objetos",
+        "nivel_dominio": "Experto",
+        "fecha_certificacion": "2021-03-20"
+      }
+    ]
+  },
+  {
+    "_id": "INST002",
+    "numero_documento": "50234567",
+    "tipo_documento": "CC",
+    "nombres": "Andrea",
+    "apellidos": "López Castillo",
+    "contacto": {
+      "email": "andrea.lopez@educativo.edu.co",
+      "telefono": "3159876543"
+    },
+    "especialidad": "Desarrollo Web",
+    "nivel_educacion": "Especialización",
+    "estado": "Activo",
+    "competencias_certificadas": [
+      {
+        "id_competencia": "COMP004",
+        "nombre": "Desarrollo Web Frontend",
+        "nivel_dominio": "Experto",
+        "fecha_certificacion": "2019-08-10"
+      }
+    ]
+  },
+  {
+    "_id": "INST003",
+    "numero_documento": "60345678",
+    "tipo_documento": "CC",
+    "nombres": "Jorge",
+    "apellidos": "Mora Quintero",
+    "contacto": {
+      "email": "jorge.mora@educativo.edu.co",
+      "telefono": "3187654321"
+    },
+    "especialidad": "Bases de Datos",
+    "nivel_educacion": "Maestría",
+    "estado": "Activo",
+    "competencias_certificadas": [
+      {
+        "id_competencia": "COMP003",
+        "nombre": "Bases de Datos Relacionales",
+        "nivel_dominio": "Experto",
+        "fecha_certificacion": "2018-05-15"
+      }
+    ]
+  },
+  {
+    "_id": "INST004",
+    "numero_documento": "70456789",
+    "tipo_documento": "CC",
+    "nombres": "Diana",
+    "apellidos": "Rojas Pérez",
+    "contacto": {
+      "email": "diana.rojas@educativo.edu.co",
+      "telefono": "3145678901"
+    },
+    "especialidad": "Redes y Seguridad",
+    "nivel_educacion": "Doctorado",
+    "estado": "Activo",
+    "competencias_certificadas": [
+      {
+        "id_competencia": "COMP005",
+        "nombre": "Seguridad Informática",
+        "nivel_dominio": "Experto",
+        "fecha_certificacion": "2019-09-30"
+      },
+      {
+        "id_competencia": "COMP006",
+        "nombre": "Redes de Computadores",
+        "nivel_dominio": "Experto",
+        "fecha_certificacion": "2020-02-14"
+      }
+    ]
+  }
+]

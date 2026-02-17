@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "MOD001",
+    "codigo_modalidad": "MOD001",
+    "nombre_modalidad": "Presencial",
+    "descripcion": "Formación completamente presencial",
+    "tipo": "Presencial",
+    "estado": "Activo"
+  },
+  {
+    "_id": "MOD002",
+    "codigo_modalidad": "MOD002",
+    "nombre_modalidad": "Virtual",
+    "descripcion": "Formación 100% virtual a través de plataforma LMS",
+    "tipo": "Virtual",
+    "estado": "Activo"
+  },
+  {
+    "_id": "MOD003",
+    "codigo_modalidad": "MOD003",
+    "nombre_modalidad": "Mixta",
+    "descripcion": "Combinación de sesiones presenciales y virtuales",
+    "tipo": "Híbrida",
+    "estado": "Activo"
+  }
+]

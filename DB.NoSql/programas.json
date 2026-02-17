@@ -1,0 +1,103 @@
+[
+  {
+    "_id": "PROG001",
+    "codigo_programa": "PROG001",
+    "nombre_programa": "Técnico en Programación de Software",
+    "modalidad": {
+      "id_modalidad": "MOD001",
+      "nombre": "Presencial"
+    },
+    "nivel_formacion": "Técnico",
+    "duracion_meses": 18,
+    "descripcion": "Programa de programación básica y desarrollo de aplicaciones",
+    "estado": "Activo",
+    "competencias": [
+      {
+        "id_competencia": "COMP001",
+        "nombre": "Fundamentos de Programación",
+        "orden_secuencia": 1,
+        "horas_asignadas": 120,
+        "es_obligatoria": "SI"
+      },
+      {
+        "id_competencia": "COMP002",
+        "nombre": "Programación Orientada a Objetos",
+        "orden_secuencia": 2,
+        "horas_asignadas": 150,
+        "es_obligatoria": "SI"
+      },
+      {
+        "id_competencia": "COMP003",
+        "nombre": "Bases de Datos Relacionales",
+        "orden_secuencia": 3,
+        "horas_asignadas": 100,
+        "es_obligatoria": "SI"
+      }
+    ]
+  },
+  {
+    "_id": "PROG002",
+    "codigo_programa": "PROG002",
+    "nombre_programa": "Tecnólogo en Análisis y Desarrollo de Software",
+    "modalidad": {
+      "id_modalidad": "MOD002",
+      "nombre": "Virtual"
+    },
+    "nivel_formacion": "Tecnólogo",
+    "duracion_meses": 24,
+    "descripcion": "Programa avanzado en desarrollo de aplicaciones empresariales",
+    "estado": "Activo",
+    "competencias": [
+      {
+        "id_competencia": "COMP001",
+        "nombre": "Fundamentos de Programación",
+        "orden_secuencia": 1,
+        "horas_asignadas": 100,
+        "es_obligatoria": "SI"
+      },
+      {
+        "id_competencia": "COMP002",
+        "nombre": "Programación Orientada a Objetos",
+        "orden_secuencia": 2,
+        "horas_asignadas": 140,
+        "es_obligatoria": "SI"
+      },
+      {
+        "id_competencia": "COMP004",
+        "nombre": "Desarrollo Web Frontend",
+        "orden_secuencia": 3,
+        "horas_asignadas": 180,
+        "es_obligatoria": "SI"
+      }
+    ]
+  },
+  {
+    "_id": "PROG003",
+    "codigo_programa": "PROG003",
+    "nombre_programa": "Técnico en Sistemas",
+    "modalidad": {
+      "id_modalidad": "MOD003",
+      "nombre": "Mixta"
+    },
+    "nivel_formacion": "Técnico",
+    "duracion_meses": 15,
+    "descripcion": "Programa de soporte técnico y redes básicas",
+    "estado": "Activo",
+    "competencias": [
+      {
+        "id_competencia": "COMP006",
+        "nombre": "Redes de Computadores",
+        "orden_secuencia": 1,
+        "horas_asignadas": 110,
+        "es_obligatoria": "SI"
+      },
+      {
+        "id_competencia": "COMP005",
+        "nombre": "Seguridad Informática",
+        "orden_secuencia": 2,
+        "horas_asignadas": 90,
+        "es_obligatoria": "NO"
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "_id": "COMP001",
+    "codigo_competencia": "COMP001",
+    "nombre_competencia": "Fundamentos de Programación",
+    "descripcion": "Algoritmos, estructuras de datos y lógica de programación",
+    "horas_estimadas": 120,
+    "nivel": "Básico",
+    "estado": "Activo"
+  },
+  {
+    "_id": "COMP002",
+    "codigo_competencia": "COMP002",
+    "nombre_competencia": "Programación Orientada a Objetos",
+    "descripcion": "Principios de POO con Java y Python",
+    "horas_estimadas": 150,
+    "nivel": "Intermedio",
+    "estado": "Activo"
+  },
+  {
+    "_id": "COMP003",
+    "codigo_competencia": "COMP003",
+    "nombre_competencia": "Bases de Datos Relacionales",
+    "descripcion": "Diseño e implementación de bases de datos SQL",
+    "horas_estimadas": 100,
+    "nivel": "Intermedio",
+    "estado": "Activo"
+  },
+  {
+    "_id": "COMP004",
+    "codigo_competencia": "COMP004",
+    "nombre_competencia": "Desarrollo Web Frontend",
+    "descripcion": "HTML5, CSS3, JavaScript y frameworks modernos",
+    "horas_estimadas": 180,
+    "nivel": "Intermedio",
+    "estado": "Activo"
+  },
+  {
+    "_id": "COMP005",
+    "codigo_competencia": "COMP005",
+    "nombre_competencia": "Seguridad Informática",
+    "descripcion": "Principios de ciberseguridad y protección de datos",
+    "horas_estimadas": 90,
+    "nivel": "Avanzado",
+    "estado": "Activo"
+  },
+  {
+    "_id": "COMP006",
+    "codigo_competencia": "COMP006",
+    "nombre_competencia": "Redes de Computadores",
+    "descripcion": "Configuración y administración de redes",
+    "horas_estimadas": 110,
+    "nivel": "Intermedio",
+    "estado": "Activo"
+  }
+]
